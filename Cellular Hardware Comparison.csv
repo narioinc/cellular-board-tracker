@@ -28,7 +28,7 @@ Particle ,E series,Integrated module,Active,$99 ,,https://www.particle.io/produ
 PyCom,FiPy,Embedded board,Active,$67 ,€54,https://pycom.io/product/fipy/,PYCOM,Sequans Monarch (Chipset),N,N,Y,Y,N,Y,Y,Y,Y,,,,,,,,,,,,
 PyCom,GPy,Embedded board,Active,$54 ,€44,https://pycom.io/product/gpy/,PYCOM,Sequans Monarch (Chipset),N,N,Y,Y,N,Y,Y,Y,Y,,,,,,,,,,,,
 RAK,WisLTE,Add-on Module,Active,$39 ,,http://www.rakwireless.com/en/WisKeyOSH/WisLTE,QUECTEL,BG96,N,N,Y,Y,Y,Y,Y,Y,Y,,,,,,,,,,,,
-RAK,NB-ITracker,Embedded board,Active,$75 ,,http://docs.rakwireless.com/en/RAK%20Products%20Brochure/NB-IoT%20Module/02%20RAK8211%20iTracker_NB_En(V1.0).pdf,QUECTEL,"BC95-G, BG96",N,Y,Y,Y,Y,?,?,Y,Y,,Y,,,,,3.3v,,"JTAG, Serial UART, BLE","BLE, 5 sensors, GPS",,
+RAK,NB-ITracker,Embedded board,Active,$75 ,,http://docs.rakwireless.com/en/RAK%20Products%20Brochure/NB-IoT%20Module/02%20RAK8211%20iTracker_NB_En(V1.0).pdf,QUECTEL,"BC95-G, BG96",N,Y,Y,Y,Y,Y,Y,Y,Y,,Y,,,,,3.3v,,"JTAG, Serial UART, BLE","BLE, 5 sensors, GPS",,
 Seeed,LoNet - Mini GSM/GPRS/GPS Breakout,Add-on Module,Obsolete,$40 ,,https://www.seeedstudio.com/LoNet-Mini-GSM%2FGPRS%2FGPS-Breakout-p-2183.html,SIMCOM,SIM808,Y,Y,N,N,Y,Y,Y,Y,?,,,,,,,,,,,,
 Sodaq,NB-IOT Shield DeLuxe,Add-on Module,Sample,$135 ,€109,https://shop.sodaq.com/en/nb-iot-shield-deluxe.html,UBLOX,SARA N200,Y,N,N,Y,Y,N,Y,Y,?,,,,,,,,,,,,
 Sodaq,GPRSbee,Add-on Module,Active,$43 ,€35,https://shop.sodaq.com/en/gprsbee.html,SIMCOM,SIM800H,Y,N,N,N,Y,Y,Y,Y,?,,,,,,,,,,,,
